@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games Which was done @ ITI
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
